@@ -19,7 +19,7 @@ const jatin = {
   focus   : ["LLM Fine-Tuning", "Agentic AI",
              "Distributed Systems"],
   cp      : "CF Specialist 1404 | LC 350+",
-  goal    : "FAANG — SDE / MLE"
+
 };
 ```
 
@@ -201,7 +201,7 @@ Horizontal MySQL sharding via groupId partitioning. Hot→Warm→Cold 3-tier arc
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500" />
 
-### 💬 Open to FAANG SDE / MLE roles & collabs
+### 💬 collabs
 
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jatingyass/)
 [![Email](https://img.shields.io/badge/msa24010%40iiitl.ac.in-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:msa24010@iiitl.ac.in)
