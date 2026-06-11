@@ -1,378 +1,199 @@
 <div align="center">
 
-<!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,100:0a0a0a&height=3&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Jatin%20Gyass&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=38&desc=M.Sc.%20AI%20%26%20ML%20%40%20IIIT%20Lucknow%20%7C%20Full%20Stack%20%7C%20GenAI%20Engineer&descAlignY=58&descColor=a5d8ff&descSize=18" />
 
 </div>
 
-<!-- TOP BAR -->
-<img src="https://img.shields.io/badge/▶-0a0a0a?style=flat-square&logoColor=cc0000" /> &nbsp; <img src="https://img.shields.io/badge/P-cc0000?style=flat-square&logoColor=white" /> &nbsp; `// JATIN GYASS`
-
----
-
-<table>
-<tr>
-<td width="52%" valign="top">
-
-<br/>
-
-`// AI MASTERMIND`
-
-# <span>JATIN</span>
-# <span>GYASS</span>
-
-**MSc AI & ML Student @ IIIT Lucknow**
-
-<br/>
-
-![](https://img.shields.io/badge/BACKEND_DEVELOPER-cc0000?style=flat-square&logoColor=white) &nbsp; ![](https://img.shields.io/badge/AI_ENTHUSIAST-1a0000?style=flat-square&logoColor=cc0000) &nbsp; ![](https://img.shields.io/badge/PROBLEM_SOLVER-0a0a0a?style=flat-square&logoColor=cc0000)
-
-<br/>
-
-`+`
-
-**I BUILD** `INTELLIGENCE` **THAT SOLVES REAL WORLD PROBLEMS.**
-
-<br/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jatingyass)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-cc0000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jatingyass/)
-[![Email](https://img.shields.io/badge/Email-1a0000?style=for-the-badge&logo=gmail&logoColor=cc0000)](mailto:msa24010@iiitl.ac.in)
-
-</td>
-<td width="28%" align="center" valign="middle">
-
-<img src="https://user-images.githubusercontent.com/74038190/238200794-dbdb0d76-eda6-499a-b12b-5ccd3c55ca08.gif" width="230" />
-
-</td>
-<td width="20%" valign="top">
-
-```
-SYSTEM STATUS
-─────────────
-FOCUS   > BUILDING
-STATUS  > LEARNING
-MODE    > HUSTLE
-FUEL    > COFFEE
-```
-
-<br/>
-
-```
-CORE SYSTEMS
-─────────────
-LOGIC        100%
-████████████
-CREATIVITY    95%
-███████████░
-DETERMINATION 100%
-████████████
-CONSISTENCY   90%
-██████████░░
-```
-
-<br/>
-
-```
-POWER LEVEL
-───────────
-
-    99%
-
-  ▓▓▓▓▓▓▓▓▓
-```
-
-</td>
-</tr>
-</table>
-
----
-
-## `// ABOUT ME`
-
-<table>
-<tr>
-<td width="55%" valign="top">
-
-> **▸** MSc AI & ML Student at IIIT Lucknow
->
-> **▸** Full Stack + GenAI Engineer with strong DSA
->
-> **▸** Passionate about AI, ML & System Design
->
-> **▸** Fine-tuned LLMs, built RAG & multi-agent systems
->
-> **▸** Codeforces Specialist · LeetCode 350+ · Always grinding
-
-</td>
-<td width="45%" valign="middle" align="center">
-
-```
-❝
-THE GOAL ISN'T TO
-BUILD MODELS.
-THE GOAL IS TO BUILD
-INTELLIGENCE THAT
-MATTERS.
-❞
-```
-
-</td>
-</tr>
-</table>
-
----
-
-## `// TECH STACK`
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**LANGUAGES**
-
-<img src="https://skillicons.dev/icons?i=java,js,ts,python,c,html,css&theme=dark" />
-
-**BACKEND**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,mysql,postgres,redis,sqlite&theme=dark" />
-
-</td>
-<td width="50%" valign="top">
-
-**AI / ML**
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" />
-
-**TOOLS & CLOUD**
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,aws,linux,vscode,postman&theme=dark" />
-
-**FRONTEND**
-
-<img src="https://skillicons.dev/icons?i=react,angular,tailwind,vite&theme=dark" />
-
-</td>
-</tr>
-</table>
-
----
-
-## `// GITHUB STATS`
-
 <div align="center">
 
-<table>
-<tr>
-<td align="center">
-
-![](https://img.shields.io/badge/TOTAL_CONTRIBUTIONS-cc0000?style=flat-square)
-
-**1.2K+**
-
-</td>
-<td align="center">
-
-![](https://img.shields.io/badge/CURRENT_STREAK-cc0000?style=flat-square)
-
-**Check below ↓**
-
-</td>
-<td align="center">
-
-![](https://img.shields.io/badge/REPOS-cc0000?style=flat-square)
-
-**6+**
-
-</td>
-</tr>
-</table>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=jatingyass&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0a0a0a&title_color=cc0000&icon_color=cc0000&text_color=ffffff&rank_icon=github" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jatingyass&layout=compact&hide_border=true&langs_count=8&bg_color=0a0a0a&title_color=cc0000&text_color=ffffff" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=jatingyass&hide_border=true&background=0A0A0A&stroke=cc0000&ring=cc0000&fire=ff4444&currStreakLabel=cc0000&dates=888888&sideLabels=cc0000" />
+<a href="https://www.linkedin.com/in/jatingyass/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/jatingyass"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="mailto:msa24010@iiitl.ac.in"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://codeforces.com/profile/jatingyass"><img src="https://img.shields.io/badge/Codeforces-Specialist%201404-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
+<a href="https://leetcode.com/jatingyass"><img src="https://img.shields.io/badge/LeetCode-350%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 
 </div>
 
-## `// ACTIVITY GRAPH`
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=jatingyass&style=flat-square&color=58a6ff&label=Profile+Views" />
+</div>
+
+---
+
+## `$ cat jatin.json`
+
+```json
+{
+  "name"       : "Jatin Gyass",
+  "education"  : "M.Sc. AI & ML — IIIT Lucknow (2024–2026)",
+  "current"    : "Full Stack Dev Intern @ Excelerate | Angular · Node.js · DynamoDB",
+  "building"   : ["Multi-Agent AI Systems", "Production RAG Pipelines", "Distributed Backend Systems"],
+  "strengths"  : ["System Design", "LLM Fine-Tuning", "Agentic AI", "Competitive Programming"],
+  "target"     : "FAANG — Backend / AI Engineering",
+  "cp_rating"  : "Codeforces Specialist (Max: 1404) | LeetCode 350+",
+  "open_to"    : "SDE / MLE Internships & Full-Time Roles"
+}
+```
+
+---
+
+## 🚀 What I'm Building
+
+<table>
+<tr>
+<td width="50%">
+
+### 🧠 GenAI & LLM
+- **RAG Research Agent** — Hybrid retrieval (BM25 + semantic + RRF), LangGraph agentic reasoning, RAGAS evaluation
+- **Legal LLM Fine-Tuning** — QLoRA on Mistral-7B, 31% perplexity reduction, published on HuggingFace
+- **Multi-Agent System** — Planner-Executor-Critic with Redis + SQLite memory tiers
+
+</td>
+<td width="50%">
+
+### ⚙️ Systems & Backend
+- **Sharded Chat System** — MySQL horizontal sharding, Hot→Warm→Cold archival, Redis pub/sub, WebSockets
+- **Expense Tracker** — Razorpay HMAC-SHA256 payments, JWT auth, Dockerized, rate-limited
+- **Production APIs** — REST + Express + DynamoDB at Excelerate (live internship)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧬 Tech DNA
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jatingyass&bg_color=0a0a0a&color=cc0000&line=cc0000&point=ffffff&hide_border=true&area=true&area_color=1a0000" />
+**Languages**
 
-*More contributions, more progress.*
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+
+**GenAI / LLM Stack**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-FF6B6B?style=flat-square&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Backend & Databases**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+**DevOps & Cloud**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 </div>
 
 ---
 
-<table>
-<tr>
-<td width="33%" valign="top">
-
-## `// ACHIEVEMENTS`
-
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" />
-
-**350+ Problems**
-
-<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" />
-
-**Specialist · 1404**
-
-<img src="https://img.shields.io/badge/GFG-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white" />
-
-**Active Contributor**
-
-<img src="https://img.shields.io/badge/GitHub-0a0a0a?style=flat-square&logo=github&logoColor=white" />
-
-**1K+ Contributions**
-
-</td>
-<td width="33%" valign="top">
-
-## `// CURRENT GOALS`
-
-```
-Crack FAANG SDE/MLE     90%
-█████████░
-
-Master System Design    75%
-███████░░░
-
-Build AI-Powered Apps   80%
-████████░░
-
-LLM Research & Publish  70%
-███████░░░
-
-Solve 500+ DSA Probs    85%
-████████░░
-```
-
-</td>
-<td width="34%" valign="top">
-
-## `// CODE`
-
-```js
-01 const Jatin = {
-02   role: "AI & ML Engineer",
-03   passion: [
-04     "Backend", "AI", "ML"
-05   ],
-06   skills: [
-07     "Node.js", "Python",
-08     "LangChain", "MongoDB"
-09   ],
-10   mindset: "Always Learning",
-11   goal: "Build intelligence
-12         that matters",
-13   status: "Hustling 🔥"
-14 };
-```
-
-</td>
-</tr>
-</table>
-
----
-
-## `// FEATURED PROJECTS`
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**[🧠 RAG Research Agent](https://github.com/jatingyass)**
-
-`LangChain · LangGraph · FastAPI · React`
-
-Production-grade RAG with hybrid BM25 + semantic retrieval, RRF fusion, Cohere re-ranking & RAGAS evaluation.
-
----
-
-**[⚖️ Legal LLM Fine-Tuning](https://github.com/jatingyass)**
-
-`QLoRA · Mistral-7B · HuggingFace · PyTorch`
-
-Fine-tuned Mistral-7B on 4000+ legal QA pairs. **31% perplexity ↓ · 25% accuracy ↑**. Published on HuggingFace.
-
-</td>
-<td width="50%" valign="top">
-
-**[🤖 Multi-Agent AI System](https://github.com/jatingyass)**
-
-`LangGraph · Redis · SQLite · OpenAI`
-
-Planner–Executor–Critic architecture with two-tier memory, dynamic routing & 7-tool extensible registry.
-
----
-
-**[💬 Real-Time Sharded Chat](https://github.com/jatingyass)**
-
-`Node.js · MySQL · Socket.IO · Redis · Docker`
-
-Horizontal MySQL sharding, Hot→Warm→Cold 3-tier archival, JWT WebSocket auth + Redis pub/sub.
-
-</td>
-</tr>
-</table>
-
----
-
-## `// CONNECT WITH ME`
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="25%">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=jatingyass&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jatingyass&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
-[![GitHub](https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jatingyass)
+</div>
 
-**FOLLOW**
+<div align="center">
 
-</td>
-<td align="center" width="25%">
+![Streak](https://github-readme-streak-stats.herokuapp.com?user=jatingyass&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jatingyass/)
+</div>
 
-**CONNECT**
+<div align="center">
 
-</td>
-<td align="center" width="25%">
-
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:msa24010@iiitl.ac.in)
-
-**EMAIL**
-
-</td>
-<td align="center" width="25%">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com)
-
-**SOLVE**
-
-</td>
-</tr>
-</table>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jatingyass&theme=tokyo-night&hide_border=true&area=true)
 
 </div>
 
 ---
 
+## 🏆 Competitive Programming
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:cc0000,100:800000&height=3" />
+| Platform | Achievement |
+|----------|------------|
+| 🔵 **Codeforces** | Specialist — Max Rating **1404** |
+| 🟡 **LeetCode** | **350+ problems** solved |
 
-<br/>
+</div>
 
-<img src="https://img.shields.io/badge/P-cc0000?style=flat-square&logoColor=white" /> &nbsp; `CODE . BUILD . LEARN . REPEAT` &nbsp; &nbsp; &nbsp; Thanks for visiting! ❤️ &nbsp; &nbsp; &nbsp; `Last Updated: June 2026`
+> Consistent problem solver with strong fundamentals in DSA — the backbone of every FAANG interview.
 
-<br/>
+---
 
-<img src="https://komarev.com/ghpvc/?username=jatingyass&style=flat-square&color=cc0000&label=VIEWS" />
+## 💼 Experience
+
+**Full Stack Developer Intern — Excelerate** *(Mar 2026 – Present · Remote)*
+> Angular · TypeScript · Node.js · Express.js · DynamoDB
+
+- Shipping production-grade features across frontend and backend
+- Migrated interface-based components to class-based architecture
+- Built REST APIs and improved UI responsiveness in live product
+
+---
+
+## 🎓 Education
+
+| Degree | Institution | Period |
+|--------|-------------|--------|
+| **M.Sc. AI & Machine Learning** | IIIT Lucknow | 2024 – 2026 |
+| **B.Sc. Computer Science** | Kurukshetra University | 2018 – 2021 |
+
+**Relevant Coursework:** Deep Learning · NLP · Computer Vision · Reinforcement Learning · MLOps · Systems Programming · Database Management
+
+---
+
+## 🌟 Leadership
+
+**Coordinator, Web & Coding Wing — AETHER, IIIT Lucknow** *(Sep 2025 – Present)*
+- Leading technical initiatives and peer learning for MSc AI & ML cohort
+- Organizing sessions on Backend Engineering, DSA, and AI/ML
+
+---
+
+<div align="center">
+
+### 💬 Let's talk systems, GenAI, or FAANG prep
+
+[![LinkedIn](https://img.shields.io/badge/Slide%20into%20my%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jatingyass/)
+[![Email](https://img.shields.io/badge/Drop%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:msa24010@iiitl.ac.in)
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
 
 </div>
